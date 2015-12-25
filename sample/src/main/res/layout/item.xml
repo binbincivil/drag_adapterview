@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="#9b8e8e"
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textSize="20sp" />
+
+</LinearLayout>
